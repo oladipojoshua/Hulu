@@ -1,0 +1,1418 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.first {
+    width: 100%;
+    background-color: #1CE783;
+    padding: 10px 30px;
+    padding-left: 40px;
+
+}
+
+.fistt{
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+.fistt>a {
+    color: black;
+}
+
+.fistt>a:hover {
+    color: white;
+}
+
+.tptp{
+    font-size: 11px;
+    margin-top: -10px;
+}
+
+#bg {
+    background-image: url(image/background\ img.jpeg);
+    height: 660px;
+    width: 100%;
+    background-size: cover;
+}
+
+#log-in {
+    color: #9DA3B0;
+    font-weight: 700;
+    cursor: pointer;
+}
+#log-in>a {
+    color: #9DA3B0;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#log-in:hover {
+    background-color: #9DA3B0;
+    border-radius: 2px;
+    color: white;
+    height: 26px;
+    width: 60px;
+    text-align: center;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 700px;
+    height: 300px;
+    margin: 108px 320px;
+    gap: 40px;
+}
+
+
+.DISNEY {
+    color: #1CE783;
+    font-size: 13px;
+    text-align: center;
+}
+
+.loop{
+    margin-top: -20px;
+    margin-left: 60px;
+    /* align-items: center; */
+}
+
+.loo{
+    margin-top: -20px;
+    margin-left: 30px;
+    /* align-items: center; */
+}
+
+.bold {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-bottom: 15px;
+}
+
+#but {
+    background-color: #1CE783;
+    font-weight: 500;
+}
+
+div>small {
+    font-size: 10px;
+    color: white;
+    text-align: center;
+}
+
+#tearm {
+    margin-top: -110px;
+}
+
+#first-black-bg {
+    width: 100%;
+    height: 1380px;
+    background-color: #0B0C0F;
+}
+
+#all-tv {
+    padding-top: 80px;
+}
+
+section>div>h1 {
+    font-size: 50px;
+    color: white;
+}
+
+#sub-tv {
+    font-size: 17px;
+}
+
+#first-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 40px;
+}
+
+#first-grid>div>img {
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.ontop {
+    position: relative;
+    top: -450px;
+    padding-left: 14px;
+    font-weight: 700;
+}
+
+.ontop>p {
+    color: white;
+    font-size: 12px;
+}
+
+.ontop>h4 {
+    margin-top: -10px;
+    color: white;
+    font-size: 21px;
+}
+
+#first-grid>div>img {
+    opacity: 0.6;
+}
+
+#first-grid>div>img:hover {
+    border: 5px solid #797D84;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+#down {
+    position: relative;
+    top: -40px;
+    font-size: 10px;
+}
+
+#live-tvs{
+    font-size: 20px;
+    font-weight: 500px;
+}
+
+#center {
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+#live {
+    font-size: 50px;
+}
+
+#limited{
+    font-size: 25px;
+}
+
+#buttin {
+    height: 50px;
+    width: 180px;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+#down2 {
+    padding-left: 160px;
+    padding-right: 160px;
+    font-size: 10px;
+}
+
+.sport-bg {
+    background-image: url(image/Sport.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.sport-bg>div>div>a {
+    margin-top: 20px;
+} 
+
+#thanks{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#closet{
+    width: 84px;
+    font-size: 13px;
+    text-decoration: none;
+    padding-bottom: 12px;
+    /* border-bottom: 5px solid white; */
+    cursor: pointer;
+    color: rgb(201, 196, 196);
+}
+
+.blod{
+    color: white;
+    border-bottom: 5px solid white;
+}
+
+#cro2{
+    margin-left: -40px;
+    width: 110px;
+    font-size: 13px;
+    text-decoration: none;
+    padding-bottom: 12px;
+    /* border-bottom: 5px solid white; */
+    cursor: pointer;
+    color: rgb(201, 196, 196);
+}
+
+.confort{
+    color: white;
+    border-bottom: 5px solid white;
+}
+
+#cro3{
+    margin-left: -95px;
+    width: 110px;
+    font-size: 13px;
+    text-decoration: none;
+    padding-bottom: 12px;
+    /* border-bottom: 5px solid white; */
+    cursor: pointer;
+    color: rgb(201, 196, 196);
+}
+
+.johnCrew{
+    color: white;
+    border-bottom: 5px solid white;
+}
+
+#tes{
+    margin-left: 45px
+}
+
+#tes2{
+    margin-left: 45px;
+}
+
+#down3 {
+    font-size: 10px;
+    margin-left: 45px;
+}
+
+#hidden-tv{
+    display: none;
+}
+
+#hidden-tv-2{
+    display: none;
+    margin-top: 160px;
+}
+
+.padd {
+    width: 100%;
+    /* border: 2px solid white; */
+    /* margin-left: -200px; */
+}
+
+.pp{
+    margin-left: 20px;
+    /* margin-right: -300px; */
+}
+
+.sport-bg2 {
+    background-image: url(image/Breaking\ News.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.sport-bg3 {
+    background-image: url(image/Biggest\ Events.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+#sp{
+    margin-top: 20px;
+    margin-left: 55px;
+}
+
+#precious{
+    /* display: none;1 */
+}
+
+#sticky {
+    z-index:  1;
+    position: sticky;
+    top: -5px;
+    /* margin-left: 200px; */
+}
+
+#plans {
+    width: 970px;
+    height: 230px;
+    padding-top: 80px;
+    padding-left: 50px;
+    border-top: 1px solid #B3B5B7;
+    margin-left: 190px;
+    margin-top: 20px;
+    border-bottom: 1px solid #B3B5B7;
+    background-color: black;
+}
+
+#base {
+    
+}
+
+#flexSwitchCheckChecked {
+    width: 50px;
+    height: 25px;
+    border: none;
+}
+
+#bundle {
+    margin-top: -10px;
+    margin-left: 20px;
+}
+
+#button-part {
+    position: relative;
+    top: -60px;
+    left: 15px;
+}
+
+#but {
+    color: #172C27;
+    height: 35px;
+    width: 130px;
+    border: none;
+    font-size: 12px;
+    text-align: center;
+}
+
+#free {
+    color: #B3B5B7;
+    font-size: 15px;
+}
+
+#ads {
+    margin-top: -15px;
+    font-size: 18px;
+}
+
+#second-but {
+    width: 280px;
+    height: 50px;
+    background-color: white;
+}
+
+#move {
+    margin-left: 20px;
+    margin-top: -4px;
+}
+
+#dash-part {
+    width: 970px;
+    margin-left: 190px;
+    border-bottom: 1px solid #B3B5B7;
+}
+
+.ood{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.list-p {
+    margin-top: -12px;
+    font-size: 10px;
+}
+
+.list-div2>p{
+    margin-left: 400px;
+}
+
+.list-div .aa {
+    width: 500px;
+    font-size: 14px;
+
+}
+
+.list-div .bb {
+    margin-right: 200px;
+    font-size: 14px;
+}
+
+.list-div .cc {
+    margin-left: 70px;
+
+}
+
+.list-div .cc-1 {
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+
+.dropdown1 {
+    width: 970px;
+    margin-left: px;
+}
+
+#dropborder>{
+    /* position: relative; */
+}
+
+#add-ons {
+    font-size: 14px;
+}
+
+#show{
+    cursor: pointer;
+}
+
+#bobo{
+    justify-content: center;
+}
+
+.arr{
+    margin-top: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    /* position: relative; */
+    
+
+}
+
+#add-ons2 {
+    font-size: 14px;
+    margin-top: -20px;
+}
+
+main{
+    cursor: pointer;
+    /* border-bottom:1px solid white; */
+    /* border-top: 1px solid white; */
+}
+
+.special{
+    margin-top: 50px;
+
+}
+
+#drop{
+    /* position: sticky; */
+    /* bottom: 2000; */
+}
+
+#dropborder{
+    border-bottom: 1px solid gray;
+}
+
+
+
+/* {<!-- responsive side -->} */
+
+
+
+
+#super{
+    display: none;
+    margin-left: 70px;
+    width: 500px;
+    height: auto ;
+    background-color: black;
+    padding-top: 50px;
+    color: white;
+}
+
+#plan2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#plan{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#spa{
+    margin-top: 30px;
+    padding: 20px 70px;
+    border-top: 1px solid gray;
+    background-color: black;
+}
+
+#josh{
+    position: sticky;
+    top: 0px;
+    background-color: black;
+    z-index: 2;
+}
+
+#spa2-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* gap: 40px; */
+    padding: 0px 30px;
+    margin-left: -70px;
+    margin-right: -70px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    background-color: black;
+}
+
+#spapo{
+    border-right: 1px solid gray;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+#sapp{
+    padding-left: 20px;
+}
+
+#butt {
+    margin-top: 20px;
+    color: #172C27;
+    height: 20px;
+    width: 90px;
+    border: none;
+    font-size: 10px;
+    text-align: center;
+    margin-left:50px ;
+}
+
+.jojo{
+    visibility: hidden;
+}
+
+#free {
+    color: #B3B5B7;
+    font-size: 12px;
+}
+
+#ads {
+    margin-top: -15px;
+    font-size: 15px;
+}
+
+#second-but {
+    width: 200px;
+    height: 40px;
+    background-color: white;
+}
+
+#momo{
+    margin-top: 15px;
+    border-bottom: 1px solid gray;
+    margin-left: -70px;
+    margin-right: -70px;
+}
+
+.wsa{
+    font-size:15px;
+}
+
+.wsaa{
+    font-size:14px;
+    margin: 0px 40px;
+}
+
+
+.wsaaa{
+    font-size:14px;
+    margin: 15px 130px;
+}
+.wsaa{
+    font-size:14px;
+    margin: 0px 120px;
+}
+
+.wawu{
+    margin-left: -10px;
+    font-size: 15px;
+    padding: 10px 40px;
+}
+
+.daa{
+    margin-top: -20px;
+}
+
+.wewe{
+    font-size: 10px;
+    text-align: center;
+}
+
+#jojo{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-top: 40px;
+    margin-left: -70px;
+    margin-right: -70px;
+    text-align: center;
+    padding-top: 15px;
+    /* margin-bottom: -50px; */
+}
+
+.affa{
+    position: relative;
+    top:-40px;
+    left: 65px;
+}
+
+
+
+/* show down */
+
+.folu{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.vivo{
+    margin-top: -20px;
+}
+
+#momo2{
+    margin-top: 15px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-left: -70px;
+    margin-right: -70px;
+}
+
+.wawu2{
+    margin-left: -10px;
+    font-size: 15px;
+    padding: 0px 40px;
+}
+
+#jojo2{
+    border-bottom: 1px solid gray;
+    margin-left: -70px;
+    margin-right: -70px;
+    text-align: center;
+    padding-top: 15px;
+    /* margin-bottom: -50px; */
+}
+footer {
+    background-color: #E8EAED;
+    padding-bottom: 30px;
+    /* margin-bottom: -17px; */
+}
+
+footer .down {
+    padding-left: 133px;
+    padding-top: 45px;
+    padding-bottom: 100px;
+}
+
+footer .down .aa {
+    flex-direction: column;
+    margin-right: 40px;
+}
+
+footer .down .ab {
+    margin-top: 22px;
+}
+
+footer .down .aa p {
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+footer .down .aa>a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #586174;
+    width: 140px;
+    margin-bottom: 6px;
+}
+
+footer .lastlast {
+    margin-left: 120px;
+}
+
+footer .lastlast-2 p {
+    font-size: 12px;
+    color: #69696b;
+    margin-right: 30px;
+
+}
+
+footer .lastlast-2 {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-left: 0px;
+}
+
+/* <!-- responsive footer --> */
+
+    .responsive-footer{
+        background-color: #E8EAED;
+        width: 400px;
+        display: none;
+    }
+
+    .browsegrid{
+        display: flex;
+        justify-content: space-between;
+        padding: 0px 15px;
+        cursor: pointer;
+    }
+
+    .browsedrop{
+        padding: 0px 15px;
+    }
+
+    .browsedrop>div{
+        margin-top: 30px;
+    }
+
+    .joodakun{
+        /* border-bottom: 1px solid gray; */
+    }
+
+    #helpHelp{
+        /* margin-top: 20px; */
+        border-bottom: 1px solid gray;
+        border-top: 1px solid gray;
+    }
+
+    .ila{
+        border-top: 1px solid white;
+        border-bottom: 1px solid gray;
+    }
+
+    .piituu{
+        margin-top: 30px;
+    }
+
+    #last{
+        font-size: 12px;
+    }
+
+
+
+@media screen and (max-width:475px) {
+    body{
+        background-color: #E8EAED;
+        overflow-x: hidden;
+    }
+
+    .first {
+        width: 100%;
+        height: 85px;
+        background-color: #1CE783;
+    }
+    
+    .fistt{
+        padding-top: 0px;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 0px 28px;
+        line-height: 15px;
+    }
+    
+    .fistt>a {
+        color: black;
+    }
+    
+    .fistt>a:hover {
+        color: white;
+    }
+
+    #bg {
+        background-image: url(image/background\ img.jpeg);
+        height: 650px;
+        width: 100%;
+        background-size: cover;
+    }
+
+    .hulu-sug{
+        height: 20px;
+        margin-left: -40px;
+    }
+    
+    #log-in {
+        color: #9DA3B0;
+        font-weight: 700;
+        cursor: pointer;
+        margin-right: -40px;
+    }
+    
+    #log-in:hover {
+        background-color: #9DA3B0;
+        border-radius: 2px;
+        color: white;
+        height: 26px;
+        width: 60px;
+        text-align: center;
+    }
+    
+    #grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 300px;
+        height: 300px;
+        margin: 110px 20px;
+        gap: 10px;
+    }
+
+    .box-1{
+        width: 160px;
+    }
+
+    .box-2{
+        width: 160px;
+    }
+    
+    
+    .DISNEY {
+        color: #1CE783;
+        font-size: 13px;
+        font-weight: 500;
+        padding-right: px;
+        text-align: center;
+    }
+
+    .loop{
+        margin-top: -20px;
+        margin-left: 28px;
+        height: 25px;
+    }
+    
+    .bold {
+        font-size: 20px;
+        text-align: center;
+        color: white;
+        padding-bottom: 15px;
+    }
+    
+    #but {
+        background-color: #1CE783;
+        font-weight: 500;
+    }
+    
+    .dot{
+        font-size: 12px;
+        color: white;
+        text-align: center;
+        /* padding: 0px 24px; */
+        font-weight: 500;
+    }
+    
+    #tearm {
+        margin-top: -140px;
+    }
+    
+    #first-black-bg {
+        width: 100%;
+        height: 1500px;
+        background-color: #0B0C0F;
+        overflow-x: hidden;
+    }
+    
+    #all-tv {
+        padding-top: 50px;
+    }
+
+    #inclu{
+        font-weight: 300
+    }
+
+    #first-black-bg>div>h1{
+        font-size: 35px;
+        font-weight: none;
+        margin-top: -10px;
+    }
+
+    #sub-tv {
+        font-size: 15px;
+        padding: 0px 10px;
+        font-weight: 500;
+    }
+    
+    #first-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+    }
+    
+    #first-grid>div>img {
+        border-radius: 10px;
+        cursor: pointer;
+    
+    }
+
+    .toy{
+        height: 250px;
+        width: 160px;
+    }
+
+    .toy2{
+        height: 250px;
+        width: 160px;
+        margin-top: -40px;
+    }
+    
+    .ontop {
+        position: relative;
+        top: -240px;
+        padding-left: 14px;
+        font-weight: 700;
+    }
+    
+    .ontop>p {
+        color: white;
+        font-size: 11px;
+    }
+    
+    .ontop>h4 {
+        margin-top: -10px;
+        color: white;
+        font-size: 17px;
+    }
+    
+    #first-grid>div>img {
+        opacity: 0.6;
+    }
+    
+    #first-grid>div>img:hover {
+        border: 5px solid #797D84;
+        border-radius: 10px;
+        opacity: 0.4;
+    }
+    
+    #down {
+        position: relative;
+        top: -40px;
+        font-size: 10px;
+    }
+
+    #live-tvs{
+        margin-top: 20px;
+        font-size: 13px;
+        margin-left: -80px;
+        margin-right: -80px;
+    }
+    
+    #center {
+        /* padding-left: -200px;
+        padding-right: -200px; */
+        font-size: 15px;
+        font-weight: 500;
+        margin-left: -270px;
+        margin-right: -270px;
+    }
+    
+    #live {
+        font-size: 30px;
+        margin-left: -80px;
+        margin-right: -80px;
+    }
+    
+    #limited{
+        margin-left: -80px;
+        margin-right: -80px;
+        font-size: 17px;
+    }
+    
+    #buttin {
+        height: 50px;
+        width: 190px;
+        border: none;
+        font-size: 15px;
+        font-weight: 700;
+    }
+    
+    #down2 {
+        padding-left: 220px;
+        padding-right: 220px;
+        font-size: 10px;
+        margin-left: -270px;
+        margin-right: -270px;
+    }
+
+    #view{
+        margin-left: -200px;
+        margin-right: -200px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 14px;
+    }
+
+    
+    
+    .sport-bg {
+        background-image: url(image/Sport.jpeg);
+        background-size: cover;
+        width: 100%;
+        height: 820px;
+        overflow-x: hidden;
+    }
+
+    .sport-bg2 {
+        background-image: url(image/Breaking\ News.jpeg);
+        background-size: cover;
+        width: 100%;
+        height: 800px;
+        overflow-x: hidden;
+    }
+    
+    .sport-bg3 {
+        background-image: url(image/Biggest\ Events.jpeg);
+        background-size: cover;
+        width: 100%;
+        height: 800px;
+        overflow-x: hidden;
+    }
+
+    #house {
+        margin-top: -200px;
+    }
+
+    #thanks{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-left: -120px;
+        gap: 90px;
+    }
+    
+    #closet{
+        /* margin-left: -800px; */
+        width: 84px;
+        font-weight: 900;
+        font-size: 12px;
+        text-decoration: none;
+        padding-bottom: 12px;
+        /* border-bottom: 5px solid white; */
+        cursor: pointer;
+        color: rgb(201, 196, 196);
+    }
+    
+    .blod{
+        color: white;
+        border-bottom: 5px solid white;
+    }
+    
+    #cro2{
+        margin-left: -80px;
+        width: 110px;
+        font-size: 13px;
+        text-decoration: none;
+        padding-bottom: 12px;
+        /* border-bottom: 5px solid white; */
+        cursor: pointer;
+        color: rgb(201, 196, 196);
+    }
+    
+    .confort{
+        color: white;
+        border-bottom: 5px solid white;
+    }
+    
+    #cro3{
+        margin-left: -80px;
+        width: 110px;
+        font-size: 13px;
+        text-decoration: none;
+        padding-bottom: 12px;
+        /* border-bottom: 5px solid white; */
+        cursor: pointer;
+        color: rgb(201, 196, 196);
+    }
+
+    #sp{
+        margin-top: 20px;
+        font-size: 40px;
+        margin-right: -200px;
+        margin-left: -20px;
+        /* text-align: cent er; */
+    }
+
+    #tes{
+        margin-left: -60px;
+        text-align: center;
+        margin-right: -210px;
+    }
+
+    #tes2{
+        margin-left: -50px;
+        margin-right: -200px;
+    }
+    
+    #down3 {
+        margin-top: 20px;
+        font-size: 10px;
+        margin-left: -40px;
+        margin-right: -180px;
+        /* text-align: center; */
+    }
+
+    #hidden-tv{
+        display: block;
+        margin-top: 110px;
+        margin-left: 32px;
+        /* width:"500px"; */
+    }
+
+    #hidden-tv-2{
+        display: block;
+        margin-top: 160px;
+    }
+
+    #precious{
+        display: none;
+    }
+
+/* {<!-- responsive side -->} */
+
+
+
+
+#super{
+    display: block;
+    margin-left: -10px;
+    width: auto;
+    height: auto ;
+    background-color: black;
+    padding-top: 50px;
+    color: white;
+    overflow-x: hidden;
+}
+
+#plan2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#plan{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#spa{
+    margin-top: 30px;
+    padding: 20px 70px;
+    border-top: 1px solid gray;
+    background-color: black;
+}
+
+#swith{
+    margin-left: 30px;
+}
+
+#base{
+    margin-left: -40px;
+}
+#base2{
+    margin-left: 10px;
+}
+
+#holo{
+    margin-left: -20px;
+    margin-top: -10px;
+}
+
+#bundle {
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+#hulhul{
+    position:sticky;
+    top: 0px;
+    background-color: black;
+    z-index: 2;
+}
+
+#spa2-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* gap: 40px; */
+    padding: 0px 30px;
+    margin-left: -70px;
+    margin-right: -70px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    background-color: black;
+}
+
+#spapo{
+    border-right: 1px solid gray;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+#sapp{
+    padding-left: 20px;
+}
+
+#butt {
+    margin-top: 20px;
+    color: #172C27;
+    height: 20px;
+    width: 80px;
+    border: none;
+    font-size: 10px;
+    text-align: center;
+    margin-left:40px ;
+}
+
+.jojo{
+    visibility: hidden;
+}
+
+#free {
+    color: #B3B5B7;
+    font-size: 12px;
+}
+
+#ads {
+    margin-top: -15px;
+    font-size: 15px;
+}
+
+#second-but {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+}
+
+#momo{
+    margin-top: 15px;
+    border-bottom: 1px solid gray;
+    margin-left: -70px;
+    margin-right: -70px;
+}
+
+.wsa{
+    font-size:15px;
+}
+
+.wsaa{
+    font-size:14px;
+    margin: 0px 40px;
+}
+
+
+.wsaaa{
+    font-size:14px;
+    margin: 15px 130px;
+}
+.wsaa{
+    font-size:14px;
+    margin: 0px 120px;
+}
+
+.wawu{
+    margin-left: -10px;
+    font-size: 15px;
+    padding: 10px 40px;
+}
+
+.daa{
+    margin-top: -20px;
+}
+
+.wewe{
+    font-size: 10px;
+    text-align: center;
+}
+
+#jojo{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-top: 40px;
+    margin-left: -70px;
+    margin-right: -70px;
+    text-align: center;
+    padding-top: 15px;
+    /* margin-bottom: -50px; */
+}
+
+.affa{
+    position: relative;
+    top:-40px;
+    left: 65px;
+}
+
+
+
+/* show down */
+
+.folu{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.vivo{
+    margin-top: -20px;
+}
+
+#momo2{
+    margin-top: 15px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-left: -70px;
+    margin-right: -70px;
+}
+
+.wawu2{
+    margin-left: -10px;
+    font-size: 15px;
+    padding: 0px 40px;
+}
+
+#jojo2{
+    border-bottom: 1px solid gray;
+    margin-left: -70px;
+    margin-right: -70px;
+    text-align: center;
+    padding-top: 15px;
+    /* margin-bottom: -50px; */
+}
+footer {
+    background-color: #E8EAED;
+    padding-bottom: 30px;
+    /* margin-bottom: -17px; */
+    display: none;
+}
+
+
+/* <!-- responsive footer --> */
+
+.responsive-footer{
+    background-color: #E8EAED;
+    width: auto;
+    display: block;
+    padding-top: 50px;
+    overflow-x: hidden;
+}
+
+.browse{
+    width: auto;
+    height: auto;
+}
+
+.browsegrid{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+    cursor: pointer;
+}
+
+.browsedrop{
+    padding: 0px 15px;
+}
+
+
+#jojoo{
+    margin-top: -10px;
+    font-size: 12px;
+}
+
+/* .jooorr{
+    margin-top: 40px;
+} */
+
+.jooorr>p{
+    margin-top: 20px;
+    line-height: 3px;
+    cursor: pointer;
+    font-size: 12px;
+}
+}
